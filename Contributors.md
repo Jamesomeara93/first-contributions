@@ -228,6 +228,7 @@
 - [Ayushi Mittal](https://github.com/AyushiNM)
 - [Tim Furdui](https://github.com/TimFurdui)
 - [Avnish Pandey](https://github.com/avnishpandey113)
+- [James O'Meara](https://github.com/Jamesomeara93)
 - [Adrianna Guevarra](https://github.com/adrianna157)
 - [Priyanka Mary Mammen](https://github.com/priyankamary)
 - [Vanessa Yu](https://github.com/vanessayu19)
